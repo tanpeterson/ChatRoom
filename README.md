@@ -2,7 +2,6 @@
 
 ## How to use
 
-### To run frontend and backend separately
 # For the frontend:
 - Navigate to `/frontend` and type `npm install` in your terminal.
 - Next type `npm start`.
